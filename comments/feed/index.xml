@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Comments for Paskal logopédia	</title>
+	Hozzászólások ehhez: Logopédia és fejlesztés	</title>
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 	<item>
 		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
+		A WordPress Commenter hozzászólása (Hello world!)		</title>
 		<link>/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
@@ -37,7 +37,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.</p>
 			</item>
 		<item>
 		<title>
-		Comment on Helló Világ! by Egy WordPress hozzászóló		</title>
+		Egy WordPress hozzászóló hozzászólása (Helló Világ!)		</title>
 		<link>/hello-vilag/#comment-2</link>
 
 		<dc:creator><![CDATA[Egy WordPress hozzászóló]]></dc:creator>

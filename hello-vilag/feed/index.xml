@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Comments on: Helló Világ!	</title>
+	Hozzászólások ehhez: Helló Világ!	</title>
 	<atom:link href="/hello-vilag/feed/" rel="self" type="application/rss+xml" />
 	<link>/hello-vilag/</link>
 	<description></description>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 	<item>
 		<title>
-		By: Egy WordPress hozzászóló		</title>
+		Szerző: Egy WordPress hozzászóló		</title>
 		<link>/hello-vilag/#comment-2</link>
 
 		<dc:creator><![CDATA[Egy WordPress hozzászóló]]></dc:creator>
