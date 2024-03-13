@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Logopédia és fejlesztés</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://www.paskallogopedia.hu/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.paskallogopedia.hu/</link>
 	<description></description>
-	<lastBuildDate>Mon, 26 Feb 2024 21:57:07 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 12 Mar 2024 22:22:35 +0000</lastBuildDate>
 	<language>hu</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,51 +21,11 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/02/cropped-bee-705412_1280-e1709064494458-1-32x32.png</url>
+	<url>https://www.paskallogopedia.hu/wp-content/uploads/2024/02/cropped-bee-705412_1280-e1709064494458-1-32x32.png</url>
 	<title>Logopédia és fejlesztés</title>
-	<link>/</link>
+	<link>https://www.paskallogopedia.hu/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
-		<title>Hello world!</title>
-		<link>/hello-world/</link>
-					<comments>/hello-world/#comments</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 26 Feb 2024 21:57:07 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
-
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Helló Világ!</title>
-		<link>/hello-vilag/</link>
-					<comments>/hello-vilag/#comments</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 24 Feb 2024 11:50:42 +0000</pubDate>
-				<category><![CDATA[Egyéb kategória]]></category>
-		<guid isPermaLink="false">http://192.168.88.67/wordpress/?p=1</guid>
-
-					<description><![CDATA[Üdvözlet a WordPress-ben! Ez az első bejegyzés, amelyet lehet akár módosítani, akár törölni, aztán kezdődhet az írás, a tartalommal történő feltöltés.]]></description>
-										<content:encoded><![CDATA[
-<p>Üdvözlet a WordPress-ben! Ez az első bejegyzés, amelyet lehet akár módosítani, akár törölni, aztán kezdődhet az írás, a tartalommal történő feltöltés.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/hello-vilag/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Hozzászólások ehhez: Helló Világ!	</title>
-	<atom:link href="/hello-vilag/feed/" rel="self" type="application/rss+xml" />
-	<link>/hello-vilag/</link>
+	<atom:link href="https://www.paskallogopedia.hu/hello-vilag/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.paskallogopedia.hu/hello-vilag/</link>
 	<description></description>
 	<lastBuildDate>Sat, 24 Feb 2024 11:50:42 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		Szerző: Egy WordPress hozzászóló		</title>
-		<link>/hello-vilag/#comment-2</link>
+		<link>https://www.paskallogopedia.hu/hello-vilag/#comment-2</link>
 
 		<dc:creator><![CDATA[Egy WordPress hozzászóló]]></dc:creator>
 		<pubDate>Sat, 24 Feb 2024 11:50:42 +0000</pubDate>

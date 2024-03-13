@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Hozzászólások ehhez: Kedves Szülők!	</title>
-	<atom:link href="/ez-egy-minta-oldal/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://www.paskallogopedia.hu/ez-egy-minta-oldal/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.paskallogopedia.hu/</link>
 	<description></description>
 	<lastBuildDate>Tue, 12 Mar 2024 22:13:04 +0000</lastBuildDate>
 	<sy:updatePeriod>
